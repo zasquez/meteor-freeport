@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'yasaricli:freeport',
+  name: 'pmteor:freeport',
   version: '0.0.1',
   summary: 'Find a free port for meteor.',
-  git: 'https://github.com/yasaricli/meteor-freeport.git',
+  git: 'https://github.com/pmteor/meteor-freeport.git',
   documentation: 'README.md'
 });
 

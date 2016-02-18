@@ -4,5 +4,5 @@ Find a free port for meteor.
 ## Installation
 
 ```
-$ meteor add yasaricli:freeport
+$ meteor add pmteor:freeport
 ```
